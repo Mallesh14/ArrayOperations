@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+     background-color:black; 
+     color: white;
+     padding: 20px;
+}
+#num{
+    border-radius: 70px;
+    height: 40px;
+
+}
+button{
+    background-color: rgb(185, 190, 188);
+     padding: 10px; 
+    border-radius: 50px;
+    margin-top: 60px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(162, 230, 168);
+}
+#message{
+    margin-top: 50px;
+    font-size: x-large;
+}
